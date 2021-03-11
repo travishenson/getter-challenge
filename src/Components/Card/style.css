@@ -1,10 +1,10 @@
 .card {
-  background-color: lightgrey;
+  background-color: #FBF7F5;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   color: black;
   height: 60vh;
-  margin: 15px auto;
+  margin: 0 auto;
   max-height: 400px;
   max-width: 300px;
   width: 85%;

@@ -1,19 +1,11 @@
-import { useState } from 'react';
-
 // Import assets and stylesheet
 import logo from './logo.png';
 import './App.css';
 
 // Import components for app
-import { Card } from './Components';
-
-// Import workers from workers.json
-let workersData = require('./api/workers.json');
+import { Deck } from './Components';
 
 function App() {
-  const [workers, setWorkers] = useState(workersData);
-  const [currentWorker, setCurrentWorker] = useState({});
-
   return (
     <div className='App'>
       <header className='App-header'>
@@ -25,15 +17,11 @@ function App() {
       </header>
       <main>
         <div className='card-container'>
-          {workers.stunt_doubles.map((worker) => {
-            return (
-              <Card 
-                key={worker.id}
-                name={worker.name} 
-                photo={worker.photo}
-              />
-            )
-          })}
+          <Deck />
+        </div>
+        <div className='icon-container'>
+          <div>Swipe Left for No</div>
+          <div>Swipe Right for Yes</div>
         </div>
       </main>
     </div>

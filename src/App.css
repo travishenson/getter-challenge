@@ -40,6 +40,7 @@
 .card-container {
   display: grid;
   grid-template: 1fr / 1fr;
+  margin-top: 75px;
   place-items: center;
 }
 
@@ -48,11 +49,8 @@
   grid-row: 1 / 1;
 }
 
-/* Adding rotations to 'random' cards to give stacked effect */
-.card-container > *:nth-child(odd) {
-  transform: rotate(2.5deg);
-}
-
-.card-container > *:nth-child(3n+1) {
-  transform: rotate(-2.5deg);
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
