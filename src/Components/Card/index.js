@@ -24,7 +24,7 @@ export default function Card({ i, x, y, rot, scale, trans, bind, data }) {
             <img 
               className='profile-photo' 
               src={photo} 
-              alt={`${name} profile photo`} 
+              alt={`${name} profile`} 
             />
             <h2>{name}</h2>
           </div>
