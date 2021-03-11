@@ -4,14 +4,55 @@
   width: 95%;
 }
 
+/* Styles for the App Header */
 .App-header {
   align-items: center;
   display: flex;
+  flex-direction: column;
   margin: 0 auto;
   width: 100%;
 }
 
+.App-heading {
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+.App-subheading {
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.App-subheading > a {
+  color: white;
+  font-weight: bold;
+}
+
 .App-logo {
-  height: 100px;
+  height: 75px;
   margin: 0 auto;
+}
+
+/* Styles for the Main Section of the app */
+.card-container {
+  display: grid;
+  grid-template: 1fr / 1fr;
+  place-items: center;
+}
+
+.card-container > * {
+  grid-column: 1 / 1;
+  grid-row: 1 / 1;
+}
+
+/* Adding rotations to 'random' cards to give stacked effect */
+.card-container > *:nth-child(odd) {
+  transform: rotate(2.5deg);
+}
+
+.card-container > *:nth-child(3n+1) {
+  transform: rotate(-2.5deg);
 }

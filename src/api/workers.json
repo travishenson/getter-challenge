@@ -1,0 +1,39 @@
+{
+  "stunt_doubles": [
+    {
+      "id": "001",
+      "name": "Ellen Ripley",
+      "photo": "https://static.wikia.nocookie.net/avp/images/4/48/Ellen_Ripley.png/revision/latest/top-crop/width/360/height/360?cb=20130410133154"
+    },
+    {
+      "id": "002",
+      "name": "Indiana Jones",
+      "photo": "https://pyxis.nymag.com/v1/imgs/993/469/02ca372a54c41c1913a15223280297100a-28-indiana-jones.rsquare.w1200.jpg"
+    },
+    {
+      "id": "003",
+      "name": "John McClane",
+      "photo": "https://pyxis.nymag.com/v1/imgs/76b/9d2/e8f75df80ceba66f062058f1f2ceb08753-20-die-hard.rsquare.w330.jpg"
+    },
+    {
+      "id": "004",
+      "name": "Sarah Connor",
+      "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/terminator-dark-fate-3-1554388250.jpg?crop=0.563xw:1xh;center,top&resize=480:*"
+    },
+    {
+      "id": "005",
+      "name": "Lara Croft",
+      "photo": "https://static.wikia.nocookie.net/laracroft/images/3/3a/2018_Movie_Lara.png/revision/latest/top-crop/width/360/height/360?cb=20170720151122"
+    },
+    {
+      "id": "006",
+      "name": "John Wick",
+      "photo": "https://pyxis.nymag.com/v1/imgs/a85/912/a5ef47190c966169cf6e9c6da815b0f0ad-07-john-wick-2-2.rsquare.w700.jpg"
+    },
+    {
+      "id": "007",
+      "name": "James Bond",
+      "photo": "https://static.wikia.nocookie.net/jamesbond/images/e/e6/Bond_-_Sean_Connery_-_Profile.jpg/revision/latest/top-crop/width/360/height/360?cb=20130217190224"
+    }
+  ]
+}
