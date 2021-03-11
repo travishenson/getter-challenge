@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/getter-challenge/static/css/main.a95dc434.chunk.css",
+    "main.js": "/getter-challenge/static/js/main.54e7ce53.chunk.js",
+    "main.js.map": "/getter-challenge/static/js/main.54e7ce53.chunk.js.map",
+    "runtime-main.js": "/getter-challenge/static/js/runtime-main.ed2f5df3.js",
+    "runtime-main.js.map": "/getter-challenge/static/js/runtime-main.ed2f5df3.js.map",
+    "static/js/2.1edcc6f7.chunk.js": "/getter-challenge/static/js/2.1edcc6f7.chunk.js",
+    "static/js/2.1edcc6f7.chunk.js.map": "/getter-challenge/static/js/2.1edcc6f7.chunk.js.map",
+    "static/js/3.218fba7f.chunk.js": "/getter-challenge/static/js/3.218fba7f.chunk.js",
+    "static/js/3.218fba7f.chunk.js.map": "/getter-challenge/static/js/3.218fba7f.chunk.js.map",
+    "index.html": "/getter-challenge/index.html",
+    "static/css/main.a95dc434.chunk.css.map": "/getter-challenge/static/css/main.a95dc434.chunk.css.map",
+    "static/js/2.1edcc6f7.chunk.js.LICENSE.txt": "/getter-challenge/static/js/2.1edcc6f7.chunk.js.LICENSE.txt",
+    "static/media/logo.b6a576c3.png": "/getter-challenge/static/media/logo.b6a576c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed2f5df3.js",
+    "static/js/2.1edcc6f7.chunk.js",
+    "static/css/main.a95dc434.chunk.css",
+    "static/js/main.54e7ce53.chunk.js"
+  ]
+}
