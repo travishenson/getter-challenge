@@ -17,3 +17,7 @@ When a card is swiped/dragged right, give the user feedback that the item is &#3
 ## Tools Used
 - React.js
 - HTML/CSS
+
+## Getting Started
+- Clone the repo
+- Use the command 'npm run start' to launch the app
